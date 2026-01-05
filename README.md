@@ -7,6 +7,8 @@ This is a simple website written in Golang. It uses the `net/http` package to se
 To run the server, execute the following command:
 
 ```bash
+# Build the application first.
+go build -o main .
 go run main.go
 ```
 
