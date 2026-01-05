@@ -9,6 +9,7 @@ To run the server, execute the following command:
 ```bash
 # Build the application first.
 go build -o main .
+./main
 go run main.go
 ```
 
